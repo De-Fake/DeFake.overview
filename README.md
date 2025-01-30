@@ -1,6 +1,7 @@
 # DeFake
 
 ![Java Version](https://img.shields.io/badge/Java-23-blue)
+![Python Version](https://img.shields.io/badge/Python-3.8-brown)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![X](https://img.shields.io/badge/X-DeFake-red)
 
